@@ -18,3 +18,6 @@ CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 .clang_completer
+
+# some scripts for running on linux
+editor.sh
